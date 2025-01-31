@@ -1,2 +1,2 @@
 # Java
-For Java Development Practice
+This repo is for Java development purpose
