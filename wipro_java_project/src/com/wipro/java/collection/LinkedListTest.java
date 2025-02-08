@@ -1,5 +1,6 @@
 package com.wipro.java.collection;
-import java.util.*;
+import java.util.LinkedList;
+import java.util.List;
 
 public class LinkedListTest {
 
